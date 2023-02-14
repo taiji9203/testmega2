@@ -1,0 +1,11 @@
+﻿@CHARSET "UTF-8";
+
+/*#으로만든건 넓은 범위css(#으로받으면 id로 받음)  .으로 만든건 좁은 범위(.으로하면 클래스로받음) */
+.c_title {
+	width: 100%;
+	margin: 40px 0px 40px;
+	padding: 0px;
+	text-align: center;
+	vertical-align: top;
+	overflow: hidden;
+}
